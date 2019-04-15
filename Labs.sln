@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 2.4", "Lab 2.4\Lab 2.4.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 1.10", "Lab 1.10\Lab 1.10.csproj", "{C04A0D4A-5D3B-400E-BB7B-4A36D889A578}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{B52948F0-9E62-4B20-BB32-767895644880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital", "Hospital\Hospital.csproj", "{AA0BA0FA-31B5-4D73-90CA-D9BB5B2861C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{C04A0D4A-5D3B-400E-BB7B-4A36D889A578}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C04A0D4A-5D3B-400E-BB7B-4A36D889A578}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C04A0D4A-5D3B-400E-BB7B-4A36D889A578}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B52948F0-9E62-4B20-BB32-767895644880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52948F0-9E62-4B20-BB32-767895644880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52948F0-9E62-4B20-BB32-767895644880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52948F0-9E62-4B20-BB32-767895644880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA0BA0FA-31B5-4D73-90CA-D9BB5B2861C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA0BA0FA-31B5-4D73-90CA-D9BB5B2861C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA0BA0FA-31B5-4D73-90CA-D9BB5B2861C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA0BA0FA-31B5-4D73-90CA-D9BB5B2861C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
