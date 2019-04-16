@@ -10,8 +10,7 @@ namespace Hospital
     {
         static void Main(string[] args)
         {
-            Patient patient = new Patient("Gfgd", "ffsdf");
-            Admin admin = new Admin();
+            
             
             Console.ReadKey();
 

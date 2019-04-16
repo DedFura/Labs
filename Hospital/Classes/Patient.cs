@@ -7,21 +7,18 @@ using System.Threading.Tasks;
 namespace Hospital
 {
     class Patient : IAccount
-    {
+    { 
         
-
         public string Name { get; set; }
         public string Password { get; set; }
-
+        
+        bool IsAdmin { get; }
         public Patient (string name, string password)
         {
             Name = name;
             Password = password;
         }
 
-        public void GetCalendar()
-        {
-            Console.WriteLine("Календарь");
-        }
+     
     }
 }

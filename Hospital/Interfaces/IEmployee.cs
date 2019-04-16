@@ -14,14 +14,7 @@ namespace Hospital
        
     }
 
-    public enum Function
-    {
+    
 
-    }
-
-    public enum Department
-    {
-        Hospital,
-        Clinik
-    }
+   
 }

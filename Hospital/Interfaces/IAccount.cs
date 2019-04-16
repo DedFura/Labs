@@ -14,16 +14,7 @@ namespace Hospital
         bool IsAdmin { get; }
     }
 
-    public interface ICalendar
-    {
-        IEnumerable<IRecord> Records { get; }
-    }
 
-    public interface IRecord
-    {
-        IAccount Account { get; }
-        IEmployee Employee { get; }
-        DateTime DateTime { get; }
-        string Comment { get; }
-    }
+
+   
 }
